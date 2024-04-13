@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "695556745001",
+    "project_id": "daymanager-2e58a",
+    "storage_bucket": "daymanager-2e58a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695556745001:android:03ad26f86b9ab95c8fb938",
+        "android_client_info": {
+          "package_name": "com.example.daymanager_core"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695556745001-u4r1rfr9jdnjusr1fvrf74vgh6qse6lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_pyAIcofY1R7snIEK6G2F3Gu0_15yRrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695556745001-u4r1rfr9jdnjusr1fvrf74vgh6qse6lh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "695556745001-ooa4r1iqov5de58u8vl0jslhrs1df79g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rakhmatov.DayManager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
